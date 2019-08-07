@@ -12,6 +12,8 @@ Takes the top 100 tft players from tracker.gg and writes them to a CSV.
 - CD into directory.
 - python3 main.py
 
+# Future
+- Add Config file to allow support for other regions, different out methods etc.
 
 
 # Disclaimer
